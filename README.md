@@ -1,4 +1,4 @@
- ProjectJulius – Caesar Cipher Encoder & Decoder
+ 🔒ProjectJulius – Caesar Cipher Encoder & Decoder
  A Python project that encrypts and decrypts messages using the classic Caesar Cipher algorithm.
  Description
 ProjectJulius is a beginner‑friendly Python command‑line tool that lets users encode and decode secret messages using the Caesar Cipher, one of the oldest and simplest forms of encryption.
